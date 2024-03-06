@@ -30,6 +30,14 @@ button{
     padding: 6px 12px;
     background: var(--red);
     height: 32px;
-    color: white;
     font-weight: 500;
+    color: white;
+
+}
+nav button{
+    border:1px var(--red) solid;
+    border-radius: 15px;
+    width: 70px;
+    font-size: 20px;
+    text-align: center;
 }
