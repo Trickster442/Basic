@@ -1,5 +1,6 @@
 import React from 'react'
 import img from '../Components/images/brand_logo.png'
+import '../App.css'
 const Navbar = () => {
   return (
     <div>
