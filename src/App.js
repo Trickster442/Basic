@@ -1,12 +1,12 @@
-import Navbar from "./Components/Navbar";
-import './App.css';
-import Hero from "./Components/Hero/Hero";
+import FootwearMain from "./Footwear/Components/FootwearMain";
+
+
 
 function App() {
   return (
     <div>
-      <Navbar/>
-      <Hero/>
+     {/* footwear page */}
+     <FootwearMain/>
     </div>
   );
 }
