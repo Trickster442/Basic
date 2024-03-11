@@ -8,3 +8,8 @@
     display: flex;
     gap: 32px;
 }
+
+.contactForm{
+    display: flex;
+    flex-direction: column;
+}
