@@ -1,0 +1,10 @@
+.main{
+    display: flex;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.top_buttons{
+    display: flex;
+    gap: 32px;
+}

@@ -10,3 +10,16 @@
     height: 44px;
     justify-content: center;
 }
+
+.outline_btn {
+    padding: 18px 10px;
+    border: 1px solid black;
+    color: black;
+    min-width: 200px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    height: 44px;
+    justify-content: center;
+}
