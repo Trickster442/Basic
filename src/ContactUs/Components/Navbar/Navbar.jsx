@@ -3,7 +3,7 @@ import logo from "../Images/Frame 2 1.png";
 import "./App.css";
 const Navbar = () => {
   return (
-    <div className="container">
+    <div className="Navbar">
       <div>
         <img src={logo} alt="logo" />
       </div>

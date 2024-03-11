@@ -1,0 +1,15 @@
+.contact-section h1{
+    font-size: 48px;
+    font-weight: 800;
+
+}
+
+.contact-section p {
+    font-weight: 500;
+}
+
+.contactForm{
+    display:flex;
+    margin:  0 auto;
+    max-width: 1000px;
+}

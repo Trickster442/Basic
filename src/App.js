@@ -1,5 +1,5 @@
 import ContactUs from "./ContactUs/Components/ContactUs";
-import FootwearMain from "./Footwear/Components/FootwearMain";
+// import FootwearMain from "./Footwear/Components/FootwearMain";
 
 import './index.css'
 import './App.css'
