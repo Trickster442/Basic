@@ -15,8 +15,15 @@ const ContactForm = () => {
 
             <ButtonComp text="VIA CALL" icon={FaPhoneAlt} />
           </div>
+          
           <ButtonComp isOutline={true} text="VIA EMAIL FORM" icon={HiMail} />
+          <form>
+            <div className='form_control'>
 
+            <label htmlFor='name'>Name</label>
+            <input type='text' name='name'/>
+            </div>
+          </form>
         {/* <div>
           <img src={main} alt="Main" />
         </div> */}

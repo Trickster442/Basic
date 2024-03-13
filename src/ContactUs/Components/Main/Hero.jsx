@@ -5,7 +5,7 @@ import "./Hero.css";
 import ContactForm from "./ContactForm/ContactForm";
 const Hero = () => {
   return (
-    <div className=" contact-section">
+    <div className="contact-section">
       <h1>CONTACT US</h1>
       <p>
         LET’S CONNECT: WE’RE HERE TO HELP, AND WE’D LOVE TO HEAR FROM YOU!
