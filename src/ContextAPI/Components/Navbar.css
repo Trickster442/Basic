@@ -1,0 +1,15 @@
+nav{
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+nav ul{
+    padding: 0;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 0 10px;
+}
+

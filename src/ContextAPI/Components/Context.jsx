@@ -1,10 +1,10 @@
 import React from 'react'
 import Navbar from './Navbar'
 import BookList from './Booklist'
-
+import './Context.css'
 const Context = () => {
   return (
-    <div>
+    <div className='App'>
       <Navbar/>
       <BookList/>
     </div>

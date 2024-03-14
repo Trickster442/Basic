@@ -1,0 +1,9 @@
+.book-list{
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+.book-list ul{
+    display: flex;
+    flex-direction: column;
+}

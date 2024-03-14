@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-
+import './Booklist.css'
 class BookList extends Component {
     render(){
         return(
@@ -8,8 +8,6 @@ class BookList extends Component {
                     <li>the way of kings</li>
                     <li>the name of the wind</li>
                     <li>the final empire</li>
-
-                    
                 </ul>
             </div>
 

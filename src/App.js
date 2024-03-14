@@ -7,7 +7,7 @@ import Navbar from "./ContextAPI/Components/Navbar";
 import Context from "./ContextAPI/Components/Context";
 function App() {
   return (
-    <div>
+    <div className="App">
      {/* footwear page */}
      {/* <FootwearMain/> */}
 
