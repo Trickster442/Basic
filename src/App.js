@@ -1,10 +1,9 @@
-import ContactUs from "./ContactUs/Components/ContactUs";
-import FootwearMain from "./Footwear/Components/FootwearMain";
-
-import './index.css'
+// import ContactUs from "./ContactUs/Components/ContactUs";
+// import FootwearMain from "./Footwear/Components/FootwearMain";
+// import Navbar from "./ContextAPI/Components/Navbar";
+// import Context from "./ContextAPI/Components/Context";
+import FoodyZone from "./FoodyZone/FoodyZone";
 import './App.css'
-import Navbar from "./ContextAPI/Components/Navbar";
-import Context from "./ContextAPI/Components/Context";
 function App() {
   return (
     <div className="App">
@@ -16,10 +15,11 @@ function App() {
 
 
      {/* Food Zone WebSite */}
+     <FoodyZone/>
 
 
      {/* context api react */}
-     <Context/>
+     {/* <Context/> */}
     </div>
   );
 }
